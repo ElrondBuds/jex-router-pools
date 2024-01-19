@@ -35,6 +35,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: EBUD/ONE",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["EBUD-d29cce", "ONE-f9954f"],
+    "tokens_out": ["EBUD-d29cce", "ONE-f9954f"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: ECPX/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["ECPX-5cbfeb", "WEGLD-bd4d79"],
