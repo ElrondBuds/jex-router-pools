@@ -1,5 +1,19 @@
 [
   {
+    "name": "JEXchange: EBUD/LUV",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq4jw0jusyvvqa5mlryrpvjakzx5t6w8wf6avspuqden",
+    "tokens_in": ["EBUD-d29cce", "LUV-310136"],
+    "tokens_out": ["LPEBUDLUV-839dd4"],
+    "type": "jexchange_lp_deposit"
+  },
+  {
+    "name": "JEXchange: EBUD/LUV",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq4jw0jusyvvqa5mlryrpvjakzx5t6w8wf6avspuqden",
+    "tokens_in": ["LPEBUDLUV-839dd4"],
+    "tokens_out": ["EBUD-d29cce", "LUV-310136"],
+    "type": "jexchange_lp_withdraw"
+  },
+  {
     "name": "JEXchange: PUSSY/EBUD",
     "sc_address": "erd1qqqqqqqqqqqqqpgq27utwjgzs3em4jmgrqfgs99kg8dz5w9z6avsqajwnj",
     "tokens_in": ["PUSSY-1a1c41", "EBUD-d29cce"],
@@ -12,6 +26,13 @@
     "tokens_in": ["EBUD-d29cce", "GREEN-1c62ca"],
     "tokens_out": ["LPEBUDGREE-2ec082"],
     "type": "jexchange_lp_deposit"
+  },
+  {
+    "name": "JEXchange: EBUD/GREEN",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqkckf9dl6v0v9zecel7dtsvrsr4qr4hy36avsm0hx8t",
+    "tokens_in": ["LPEBUDGREE-2ec082"],
+    "tokens_out": ["EBUD-d29cce", "GREEN-1c62ca"],
+    "type": "jexchange_lp_withdraw"
   },
   {
     "name": "JEXchange: COMET/JEX",
@@ -28,6 +49,13 @@
     "type": "jexchange_lp_deposit"
   },
   {
+    "name": "JEXchange: EBUD/HIT",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq8tmcra2ucpewd03yhwx00fch6gh6xv886avs9knwg2",
+    "tokens_in": ["LPEBUDHIT-2af936"],
+    "tokens_out": ["EBUD-d29cce", "HIT-3f109b"],
+    "type": "[jexchange_lp_withdraw"
+  },
+  {
     "name": "JEXchange: COMET/JEX",
     "sc_address": "erd1qqqqqqqqqqqqqpgqrrffy54xxsac3602s9cwqjayz3lsta3w6avs5uq8s8",
     "tokens_in": ["LPCOMETJEX-91c9b5"],
@@ -40,6 +68,13 @@
     "tokens_in": ["EBUD-d29cce", "JEX-9040ca"],
     "tokens_out": ["LPEBUDJEX-d194f8"],
     "type": "jexchange_lp_deposit"
+  },
+  {
+    "name": "JEXchange: EBUD/JEX",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqefgeflu7x350tae0fac2r5aesua7xmgh6avs57c795",
+    "tokens_in": ["LPEBUDJEX-d194f8"],
+    "tokens_out": ["EBUD-d29cce", "JEX-9040ca"],
+    "type": "jexchange_lp_withdraw"
   },
   {
     "name": "JEXchange: ETH/BTC",
